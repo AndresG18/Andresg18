@@ -1,5 +1,8 @@
 ## About Me
 Hello, my name is Andres Garcia. I am passionate about self-improvement and have a strong desire to learn and explore new ideas continuously. Whether it’s advancing my technical skills, tackling new challenges in software development, or engaging in personal hobbies, I am always looking for ways to grow and improve. I enjoy lifting weights and playing video games during my free time.
+## Currently Learning 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-garcia-047727238/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrese17g@gmail.com)
